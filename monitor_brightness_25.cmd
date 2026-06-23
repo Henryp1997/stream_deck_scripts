@@ -1,0 +1,1 @@
+"%LocalAppData%\Programs\twinkle-tray\Twinkle Tray.exe" --All --Set=25
